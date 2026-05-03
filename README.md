@@ -64,4 +64,11 @@ System-Hotel/
 └── docs/
     ├── glossary.md
     ├── use-cases.md
-    └── hotel_use_case_diagram.xmi
+    ├── state-diagrams.md
+    ├── uml-modeling.md
+    ├── hotel_use_case_diagram.xmi
+    ├── hotel_uml_model_topic5.xmi
+    ├── hotel_uml_model_topic5.1.xmi
+    ├── hotel_uml_model_topic5.2.xmi
+    ├── hotel_uml_model_topic5.3.xmi
+    └── lr5_hotel_state_activity_diagrams.xmi
